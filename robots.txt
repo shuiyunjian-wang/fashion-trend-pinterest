@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shuiyunjian-wang.github.io/fashion-trend-pinterest/sitemap.xml
