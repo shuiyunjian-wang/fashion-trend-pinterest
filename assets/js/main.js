@@ -23,7 +23,14 @@
     pin1:      'https://images.unsplash.com/photo-1485231183945-fffde7cc051e?auto=format&fit=crop&w=800&q=80',
     pin2:      'https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?auto=format&fit=crop&w=800&q=80',
     pin3:      'https://images.unsplash.com/photo-1445205170230-053b83016050?auto=format&fit=crop&w=800&q=80',
-    pin4:      'https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?auto=format&fit=crop&w=800&q=80',
+    // pin4 split into per-page keys to avoid a single image serving 7 different products.
+    'pin4-fm':  'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-fm.jpg',
+    'pin4-y2k': 'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-y2k.jpg',
+    'pin4-sf':  'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-sf.jpg',
+    'pin4-rd':  'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-rd.jpg',
+    'pin4-ss':  'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-ss.jpg',
+    'pin4-vs':  'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-vs.jpg',
+    'pin4-idx': 'https://shuiyunjian-wang.github.io/fashion-trend-pinterest/assets/img/pin4-idx.jpg',
     editorial: 'https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=80'
   };
 
